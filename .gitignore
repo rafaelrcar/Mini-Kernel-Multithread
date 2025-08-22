@@ -1,0 +1,25 @@
+# Executáveis
+trabSO
+*.exe
+
+# Arquivos objeto
+obj/*.o
+*.o
+
+# Logs de execução
+log_execucao_minikernel.txt
+
+# Arquivos temporários
+*~
+*.tmp
+*.swp
+.DS_Store
+
+# Arquivos de IDE
+.vscode/
+.idea/
+*.code-workspace
+
+# Arquivos de debug
+*.dSYM/
+*.gdb_history
